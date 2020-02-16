@@ -1,0 +1,6 @@
+rootProject.name = 'tribalscale-interview'
+
+include ':users-service'
+include ':registry-service'
+include ':authorization-service'
+include ':companies-service'

@@ -1,0 +1,15 @@
+server:
+  port: 8760
+
+spring:
+  application:
+    name: companies-service
+
+security:
+  oauth2:
+    resource:
+      user-info-uri: http://localhost:9999/user
+      token-info-uri: http://localhost:9999/oauth/token
+    client:
+      client-id: client
+      client-secret: secret

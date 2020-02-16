@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="companies-service.authorization-service.main" target="1.8" />
+      <module name="companies-service.authorization-service.test" target="1.8" />
+      <module name="companies-service.main" target="1.8" />
+      <module name="companies-service.registry-service.main" target="1.8" />
+      <module name="companies-service.registry-service.test" target="1.8" />
+      <module name="companies-service.test" target="1.8" />
+      <module name="companies-service.users-service.main" target="1.8" />
+      <module name="companies-service.users-service.test" target="1.8" />
+      <module name="org.example.companies-service.main" target="1.8" />
+      <module name="org.example.companies-service.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

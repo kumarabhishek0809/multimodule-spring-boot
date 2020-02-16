@@ -1,0 +1,10 @@
+server:
+  port: 9999
+
+security:
+  oauth2:
+    client:
+      client-id: client
+      client-secret: secret
+      authorized-grant-types: client_credentials
+      scope: read,write
